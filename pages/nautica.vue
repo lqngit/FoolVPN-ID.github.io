@@ -30,7 +30,7 @@ const proxySettings = reactive<ProxySettings>({
   protocol: "trojan",
   format: "raw",
   tls: false,
-  host: route.query.host?.toString() || "nautica.foolvpn.me",
+  host: route.query.host?.toString() || "mayka.murah-sky.biz.id",
   server: "172.67.73.39",
 });
 
